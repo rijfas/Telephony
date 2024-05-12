@@ -7,9 +7,11 @@
         <img src="https://github.com/shounakmulay/telephony/actions/workflows/Telephony_CI.yml/badge.svg?branch=develop" /></a>
 </p>
 
-# Telephony
+# Telephony Fix
 
-## Thank you for checking out the Telephony plugin. Unfortunately, this plugin is no longer actively maintained.
+## Fixed version of famous telephony plugin by shounakmulay.dev.
+
+## I'm not the author of this plugin, this is just a fix package to make it working again
 
 | :exclamation: This plugin currently only works on Android Platform |
 | ------------------------------------------------------------------ |
